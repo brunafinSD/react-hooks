@@ -1,0 +1,32 @@
+body{
+  background-color: #ffffff;
+}
+
+.container-botoes{
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  align-items: center;
+}
+
+.container-botoes p{
+  color: #4e4e4e; 
+  margin-bottom: 10px;
+}
+
+.container-botoes button{
+  padding: 10px 20px;
+  width: 100px;
+  font-size: 1rem;
+}
+
+.container-botoes span{
+  font-weight: 800;
+  margin-top: 20px;
+}
+
+.container p, .container ul li{
+  color: #4e4e4e; 
+  margin-bottom: 10px;
+}

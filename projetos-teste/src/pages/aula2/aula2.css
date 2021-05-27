@@ -1,0 +1,17 @@
+.box-botoes{
+  margin-top: 20px;
+}
+
+.box-botoes button{
+  background-color: #ffffff;
+  border: 1px solid #c4c4c4;
+  padding: 10px;
+  color: #4e4e4e;
+}
+
+.box-botoes button:hover{
+  cursor: pointer;
+  background-color: #2c96f3;
+  color: #ffffff;
+  border: none;
+}
